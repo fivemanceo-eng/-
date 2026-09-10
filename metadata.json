@@ -1,0 +1,6 @@
+{
+  "name": "棲雲茶事 Qi Yun Tea",
+  "description": "專為愛茶人打造的質感茶葉與職人茶具線上品牌官網。嚴選台灣高山單品茶與柴燒汝窯器皿，提供從品味到生活的靜心體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
