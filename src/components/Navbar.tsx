@@ -27,7 +27,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
   const navItems: { id: PageId; label: string; en: string }[] = [
     { id: 'home', label: '首頁', en: 'Home' },
-    { id: 'products', label: '茶品與茶具介紹', en: 'Collection' },
+    { id: 'products', label: '茶葉與茶具介紹', en: 'Collection' },
     { id: 'news', label: '茶道部落格', en: 'Blog & Stories' },
     { id: 'checkout', label: '購物結帳', en: 'Order & Cart' },
     { id: 'contact', label: '品茗預約與聯絡', en: 'Contact' },

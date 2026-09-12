@@ -312,7 +312,7 @@ export const CheckoutView: React.FC<CheckoutViewProps> = ({
           onClick={() => onNavigate('products')}
           className="px-8 py-3.5 bg-[#2A312B] hover:bg-[#8C5B3E] text-white text-xs sm:text-sm font-medium rounded transition-colors shadow-xs"
         >
-          探索嚴選茶品與茶具介紹
+          探索嚴選茶葉與茶具介紹
         </button>
 
         {/* Suggested popular products */}
